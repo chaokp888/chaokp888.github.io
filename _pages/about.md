@@ -24,7 +24,7 @@ I am eager to continue my research work and confident in my ability to excel as 
 
 I made an Oral Presentation for "Design of a general spaceborne FDIR monitoring platform" on [The 37th National Symposium on Space Exploration](https://cssr.kejie.org.cn/meeting/37QGKJTCH/) in Changsha, China.
 <div style="text-align: center;">
-  <img src="../images/conference.png" alt="picture of presentation" style="width:300px;">
+  <img src="../images/conference.png" alt="picture of presentation" style="width:600px;">
 </div>
 
 
