@@ -22,10 +22,11 @@ repository               : "chaokp888/chaokp888.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Chao Li"
-  pronouns         : "he/his"  
+  name             : "李超"
+  pronouns         : # example: "she/her"  
+  bio              : "Hi, this is Chao Li" 
   location         : "Beijing, China"
-  employer         : "University of Chinese Academy of Sciences"
+  employer         : "UCAS"
   uri              : # URL
   email            : "lichao_20011102@163.com" 
 
