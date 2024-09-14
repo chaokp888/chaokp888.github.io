@@ -23,4 +23,5 @@ I am eager to continue my research work and confident in my ability to excel as 
 ## Made an Oral Presentation on The 37th National Symposium on Space Exploration, June, 2024
 
 I made an Oral Presentation for "Design of a general spaceborne FDIR monitoring platform" on [The 37th National Symposium on Space Exploration](https://cssr.kejie.org.cn/meeting/37QGKJTCH/) in Changsha, China.
-![picture of the presentation](/images/conference.png)
+<img src="images/example.jpg" alt="描述图片" width="200" height="100">
+
