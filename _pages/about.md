@@ -16,7 +16,7 @@ My future research will focus more on processing multimodal temporal data to imp
 
 I was honored to be advised by [Professor Linlin Wang](https://people.ucas.edu.cn/~wanglinlin) and [Changbin Xue](https://people.ucas.edu.cn/~xuechangbin) at Key Laboratory of Electronic Information Technology for Complex Space Systems starting from 2022, where my focus on solving the problem of design and verification of spaceborne universal fault detection, isolation, and recovery(FDIR) platform.
 
-I am highly eager to continue my research endeavors and am confident that I will be a highly self-motivated PhD applicant. If you are interested in collaborating on research projects, please feel free to contact me via email: lichao_20011102@163.com[Contact me](mailto:lichao_20011102@163.com) or WeChat: ch15172521750.
+I am highly eager to continue my research endeavors and am confident that I will be a highly self-motivated PhD applicant. If you are interested in collaborating on research projects, please feel free to contact me via email: lichao_20011102@163.com[Contact me](mailto:lichao_20011102@163.com) or WeChat: ch15172521750
 
 A data-driven personal website
 ======
