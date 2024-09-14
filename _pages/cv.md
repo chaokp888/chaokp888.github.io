@@ -35,9 +35,11 @@ Research experience
 Publications
 ======
 * None, but it is on the way.
-  <!--<ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>-->
+  {% comment %}
+  <ul>{% for post in site.publications reversed %}
+   {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  {% endcomment %}
   
 Honors & Awards
 ======
