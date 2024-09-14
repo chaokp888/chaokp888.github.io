@@ -9,56 +9,44 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my CV here: [lichao's cv](../assets/Cv.pdf).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Computer Technology, M.S. in University of Chinese Academy of Science, National Space Science Center, 2022.09 - 2025.06(expected)
+* Computer Science and Technology, B.S. in Wuhan University, 2018.09 - 2022.06
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2024 - Present: Time Series Prediction for Non-stationary Data Scenarios
+  * Key Laboratory of Electronic Information Technology for Complex Space Systems, Chinese Academy of Sciences
+  * Designed time series prediction models tailored for non-stationary data scenarios
+  * Supervisor: [Prof.Linlin Wang](https://people.ucas.edu.cn/~wanglinlin)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2024 - Present: Edge Device Deployment for FITS(Frequency Interpolation Time Series Analysis) Model
+  * Deployed the FITS model on edge computing platforms, with a specific focus on STM32F767 units.
+  * Supervisor: [Prof.Linlin Wang](https://people.ucas.edu.cn/~wanglinlin)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jul 2023 - Present: Design and Verification of Spaceborne Universal Fault Detection, Isolation, and Recovery (FDIR) Platform
+  * Key Laboratory of Electronic Information Technology for Complex Space Systems, Chinese Academy of Sciences
+  * Developed a universal FDIR platform for satellite systems to enable autonomous in-orbit fault diagnosis and recovery, addressing the non-reusability of traditional FDIR designs.
+  * Supervisor: [Prof.Liangqing Lv](https://people.ucas.edu.cn/~lvliangqing)
 
 Publications
 ======
+*None, but it is on the way.
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Honors & Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* The second prize of China College Student Computer Design Competition, 2019
+* The first prize of Wuhan University Coding Marathon, 2019
+* University level project of Innovation and Entrepreneurship for students of Wuhan University, 2021
   
-Teaching
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Language: proficient in Python; competent in C/C++.
+* Proficient in building and reproducing machine learning models using the PyTorch framework
+* Skilled in embedded programming (C/C++, ARM, STM32) and deploying optimized machine learning models on resource-constrained devices.
