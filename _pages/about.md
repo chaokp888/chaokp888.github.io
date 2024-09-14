@@ -1,13 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a junior Graduate Student pursuing a Master’s Degree in Computer Technology at [University of Chinese Academy of Science](https://english.ucas.ac.cn/) and [National Space Science Center](http://english.nssc.cas.cn/). I have received my undergraduate degree in computer science and technology from [Wuhan University](https://en.whu.edu.cn/). I am looking for a Ph.D opportunity now for further research.
+
+My research interests lie in data mining and machine learning, with a particular emphasis on time series prediction. The aim is to achieve high-accuracy predictions by utilizing appropriate data processing methods and machine learning models.
+
+My future research will focus more on processing multimodal temporal data to improve prediction accuracy and interpretability. Additionally, I have a strong interest in generative models and seek to conduct research in the area of temporal diffusion models.
+
+I was honored to be advised by [Professor Linlin Wang](https://people.ucas.edu.cn/~wanglinlin) and [Changbin Xue](https://people.ucas.edu.cn/~xuechangbin) at Key Laboratory of Electronic Information Technology for Complex Space Systems starting from 2022, where my focus on solving the problem of design and verification of spaceborne universal fault detection, isolation, and recovery(FDIR) platform.
+
+I am highly eager to continue my research endeavors and am confident that I will be a highly self-motivated PhD applicant. If you are interested in collaborating on research projects, please feel free to contact me via email: lichao_20011102@163.com[Contact me](mailto:lichao_20011102@163.com) or WeChat: ch15172521750.
 
 A data-driven personal website
 ======
