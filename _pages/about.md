@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a junior Graduate Student pursuing a master degree in Computer Technology at [University of Chinese Academy of Science](https://english.ucas.ac.cn/) and [National Space Science Center](http://english.nssc.cas.cn/). I have received my bachelor degree in computer science and technology from [Wuhan University](https://en.whu.edu.cn/). I am looking for a Ph.D opportunity now for further research.
 
-My research interests lie in **data mining** and **machine learning**, with a particular emphasis on **time series prediction**. The aim is to achieve high-accuracy predictions by utilizing appropriate data processing methods and machine learning models.
+My current research lies in **data mining** and **machine learning**, with a particular emphasis on **time series prediction**. The aim is to achieve high-accuracy predictions by utilizing appropriate data processing methods and machine learning models.
 
 My future research will focus more on processing **multimodal temporal data** to improve prediction accuracy and interpretability. Additionally, I have a strong interest in generative models and seek to conduct research in the area of **temporal diffusion models**.
 
