@@ -43,8 +43,8 @@ Publications
   
 Honors & Awards
 ======
-* The second prize of China College Student Computer Design Competition, 2019
-* The first prize of Wuhan University Coding Marathon, 2019
+* The third prize of China College Student Computer Design Competition, 2019
+* The third prize of Wuhan University Coding Marathon, 2019
 * University level project of Innovation and Entrepreneurship for students of Wuhan University, 2021
   
 Skills
